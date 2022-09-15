@@ -41,7 +41,7 @@ header div:hover {
 }
 
 header div img {
-    width: 100%;
+    width: 100%; /* em relação à div */
     border-radius: 50%;
 }
 
@@ -69,7 +69,6 @@ section div {
 
 section h2 {
     letter-spacing: -0.47px;
-    font-weight: 800;
 }
 
 section p {
@@ -106,7 +105,7 @@ section ul li:hover {
 /* animations */
 
 header div {
-    animation: fromTop .7s .2s backwards;
+    animation: fromTop .7s .2s backwards; /* .2s (delay); backwards (combina propriedades de animation em uma só)  */
 }
 
 main section {
