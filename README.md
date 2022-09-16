@@ -1,7 +1,6 @@
 # NLW eSports | Explorer
 
-![Preview](https://user-images.githubusercontent.com/43629739/189799108-db187660-ab7d-441f-8573-32d6ddfb6932.png)
-
+![thiagosuzuki github io_nlw-esports-explorer_](https://user-images.githubusercontent.com/43629739/190565510-a811de9f-3343-4851-b493-2051e34288d7.png)
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
